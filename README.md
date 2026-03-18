@@ -13,20 +13,30 @@ aefead2207ef7e2aa5dc81a34aedf0cad4c32545 Update CHANGELOG.md
 **Какому тегу соответствует коммит 85024d3?**
 
 v0.12.23
+
 v0.12.24
+
 v0.12.25
+
 v0.12.26
+
 v0.12.27
+
 v0.12.28
+
 v0.12.29
+
 v0.12.30
+
 v0.12.31
+
 
 ![alt text](image-1.png)
 
 Для поиска ближайшего тега можно использовать git describe, это будет тег v0.12.23
 
 ![alt text](image-2.png)
+
 
 
 **Сколько родителей у коммита b8d720? Напишите их хеши.**
@@ -38,6 +48,7 @@ v0.12.31
 9ea88f22fc6269854151c571162c5bcf958bee2b
 
 ![alt text](image-3.png)
+
 
 
 **Перечислите хеши и комментарии всех коммитов, которые были сделаны между тегами v0.12.23 и v0.12.24.**
@@ -65,11 +76,13 @@ dd01a35078f040ca984cdd349f18d0b67e486c35 Update CHANGELOG.md
 ![alt text](image-4.png)
 
 
+
 **Найдите коммит, в котором была создана функция func providerSource, её определение в коде выглядит так: func providerSource(...) (вместо троеточия перечислены аргументы).**
 
 8c928e8358 main: Consult local directories as potential mirrors of providers
 
 ![alt text](image-5.png)
+
 
 
 **Найдите все коммиты, в которых была изменена функция globalPluginDirs.**
@@ -87,6 +100,7 @@ c0b1761096 prevent log output during init
 8364383c35 Push plugin discovery down into command package
 
 ![alt text](image-6.png)
+
 
 
 **Кто автор функции synchronizedWriters?**
